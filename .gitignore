@@ -1,0 +1,5 @@
+/.vs/
+/WebCrawler.Console/bin
+/WebCrawler.Console/obj
+/WebCrawler.Database/bin
+/WebCrawler.Database/obj
